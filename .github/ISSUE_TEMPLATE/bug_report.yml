@@ -39,6 +39,7 @@ body:
       required: true
   - type: dropdown
     id: download
+    attributes:
      label: Where did you download the app?
      options:
        - GitHub (Official Source)
