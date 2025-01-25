@@ -28,7 +28,7 @@ Not, yet. If I want the app to be on the Play Store, I'm gonna have to make it r
 # Where can I download the .swb file for use in SketchWare?
 
 With the pre-release downloads, not the normal release, now, why only with the pre-release?
-Beacause, with the pre-releases, there is gonna be no servers, only local videos and a customizable JSON file for editikg likes, comments, etc.
+Beacause, with the pre-releases, there is gonna be no servers, only local videos and a customizable JSON file for editing likes, comments, etc.
 
 # Help! The app keeps crashing or saying I don't have internet!
 
