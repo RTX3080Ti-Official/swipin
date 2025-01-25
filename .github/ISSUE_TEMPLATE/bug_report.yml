@@ -16,7 +16,7 @@ body:
       description: How can we get in touch with you if we need more info?
       placeholder: ex. email@example.com
     validations:
-      required: false
+      required: true
   - type: textarea
     id: what-happened
     attributes:
@@ -52,4 +52,11 @@ body:
       options:
         - label: I agree
           required: true
+
+  - type: checkboxes
+    id: accountagree
+    attributes:
+      label: Important
+      description: By submitting this issue, you understand that access to your Swipin account will be disabled for a few days.
+      
           
