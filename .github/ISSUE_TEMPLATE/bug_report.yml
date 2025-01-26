@@ -58,5 +58,7 @@ body:
     attributes:
       label: Important
       description: By submitting this issue, you understand that access to your Swipin account will be disabled for a few days.
-      
+      options:
+        - label: I agree
+          required: true
           
