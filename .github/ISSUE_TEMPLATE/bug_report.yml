@@ -44,7 +44,7 @@ body:
      options:
        - GitHub (Official Source)
        - F-Droid (Alternate Source)
-       default: 0
+     default: 0
      validations:
       required: true
   - type: checkboxes
