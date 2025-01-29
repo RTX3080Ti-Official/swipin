@@ -40,12 +40,13 @@ body:
   - type: dropdown
     id: download
     attributes:
-     label: Where did you download the app?
-     options:
-       - GitHub (Official Source)
-       - F-Droid (Alternate Source)
-     default: 0
-     validations:
+      label: Where did you download the app?
+      description: Select where you got the app from.
+      options:
+        - GitHub (Official Source)
+        - F-Droid (Alternate Source)
+      default: 0
+    validations:
       required: true
   - type: checkboxes
     id: terms
@@ -55,7 +56,6 @@ body:
       options:
         - label: I agree
           required: true
-
   - type: checkboxes
     id: accountagree
     attributes:
@@ -64,4 +64,3 @@ body:
       options:
         - label: I agree
           required: true
-          
