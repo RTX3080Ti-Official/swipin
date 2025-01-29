@@ -6,7 +6,7 @@ First devlog! Please read [swipin/devlogs README](../README.MD) to know what I w
 
 The app has really evolved from just a video player, I managed to put text on a video player (using RelativeLayout), now, things are still not there/broken.
 
-![image1](/image1.png)
+![image1](image1.png)
 
 As you can see in the image, it's very broken, there a gap at the bottom (from a stupid video control thing that is just here for some reasons)
 
