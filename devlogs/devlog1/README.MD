@@ -14,7 +14,7 @@ As you can see in the image, it's very broken, there a gap at the bottom (from a
 
 For some reasons, this code:
 
-``
+```
 videoview1.setOnClickListener(new View.OnClickListener() {
 	@Override
 	public void onClick(View _view) {
@@ -33,7 +33,7 @@ videoview1.setOnClickListener(new View.OnClickListener() {
 		}
 	}
 });
-``
+```
 does not work.
 
 It should pause the video when you click on it (just like TikTok).
