@@ -7,4 +7,4 @@ Welcome to the Swipin Web Page!
 [link #2]()
 
 
-This web page is not showing correctly? Load old [HTML-based version](https://rtx3080tiofficial.github.com/swipin/html/index.html)
+This web page is not showing correctly? Load old [HTML-based version](https://rtx3080t-iofficial.github.io/swipin/html/index.html)
