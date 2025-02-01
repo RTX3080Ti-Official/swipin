@@ -23,7 +23,7 @@ Features:
 - [ ] Logo
 
 ## Video
-I made a little video to ahow you the state of the app.
+I made a little video to show you the state of the app.
 
 Copy this link:
 `https://youtu.be/_U3PVQfPxHw?si=hu9AlRRZJdNWGBcP`
