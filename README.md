@@ -2,11 +2,14 @@
 A TikTok-like app for Android.
 
 # Developement state
-Still lacking basic features, like **swiping**, **search feature**, *likes and comments*, **actually secure servers** and *better UI/UX*
+Still lacking basic features, like **swiping**, **search feature**, *~~likes~~ and comments*, **actually secure servers** and *better UI/UX*
 
-*Italic* means *Not important*
+*Italic* means *Not important*\
+**Bold** means **Very important, should be added NOW!!!**\
+~~StrikeThrough~~ means ~~Added~~
 
-**Bold** means **Very important, should be added NOW!!!**
+> [!WARNING]  
+> The like feature is still experimental and might lead to duplicate likes in future releases.
 
 # Open-source
 
