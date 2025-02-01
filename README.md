@@ -1,7 +1,7 @@
 ## Swipin
 A TikTok-like app for Android.
 
-# Developement state
+# Developement state (old)
 Still lacking basic features, like **swiping**, **search feature**, *~~likes~~ and comments*, **actually secure servers** and *better UI/UX*
 
 *Italic* means *Not important*\
@@ -37,3 +37,21 @@ Beacause, with the pre-releases, there is gonna be no servers, only local videos
 
 If the app crashes, go open an Issue.
 If there a connectivity issue, first, check if it's a pre-release version, I might forget to remove the Internet check in them. But if it's a release version, check your Internet, and maybe the servers are down. If after one day it's still not fixed, open an Issue.
+
+
+## Todo List
+- [X] Likes
+- [ ] Comments
+- [ ] Servers
+- [ ] Loading Screen
+- [X] App Icon
+- [ ] Swiping
+
+> [!NOTE]
+> The app icon is AI-generated. As someone that hates drawing, I will not make an app icon myself. You can submit your icons at rtx3080ti0415@gmail.com.
+
+> [!WARNING]  
+> The like feature is still experimental and might lead to duplicate likes in future releases.
+
+> [!TIP]
+> In pre-release versions, tapping the app icon on the loading screen will turn on debug mode.
