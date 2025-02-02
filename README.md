@@ -43,7 +43,7 @@ If there a connectivity issue, first, check if it's a pre-release version, I mig
 - [X] Likes
 - [ ] Comments
 - [ ] Servers
-- [ ] Loading Screen
+- [X] Loading Screen
 - [X] App Icon
 - [ ] Swiping
 
