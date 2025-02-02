@@ -1,6 +1,9 @@
 ## Swipin
 A TikTok-like app for Android.
 
+# Links:
+Discord server: https://discord.gg/xTCjBBwtrD
+
 # Developement state (old)
 Still lacking basic features, like **swiping**, **search feature**, *~~likes~~ and comments*, **actually secure servers** and *better UI/UX*
 
