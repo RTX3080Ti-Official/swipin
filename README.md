@@ -1,6 +1,10 @@
 ## Swipin
 A TikTok-like app for Android.
 
+## Informations
+> [!IMPORTANT]
+> First release pushed to February's end/March's start due to me being sick for 3 days.
+
 # Links:
 Discord server: https://discord.gg/xTCjBBwtrD
 
