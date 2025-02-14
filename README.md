@@ -2,6 +2,9 @@
 A TikTok-like app for Android.
 
 ## Informations
+> [!NOTE]
+> This README file will be rewritten soon and might not look the same.
+
 > [!IMPORTANT]
 > First release pushed to February's end/March's start due to me being sick for 3 days.
 
