@@ -6,8 +6,9 @@ A TikTok-like app for Android.
 > First release pushed to February's end/March's start due to me being sick for 3 days.
 
 # Links:
+<!-- Looks kinda ugly but whatever -->
 Discord server: https://discord.gg/xTCjBBwtrD \
-Q&A  \(Questions & Answers): https://github.com/RTX3080Ti-Official/swipin/blob/c9dccd5147234eee187d8d61cce28954e39a05ec/markdown/pages/special/qa.md 
+Q&A  \(Questions & Answers): https://github.com/RTX3080Ti-Official/swipin/blob/web/markdown/pages/special/qa.md 
 
 # Developement state (old)
 Still lacking basic features, like **swiping**, **search feature**, *~~likes~~ and comments*, **actually secure servers** and *better UI/UX*
